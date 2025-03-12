@@ -1,0 +1,6 @@
+# example.spac
+# The Maximum symvols in the line - 2048
+
+print("Just Example")
+beep(500, 250)
+run("dir")
